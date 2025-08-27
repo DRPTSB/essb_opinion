@@ -34,3 +34,8 @@ This simulation uses a single slice thickness to compare how easily different-si
     python your_script_name.py
     ```
 3.  **Customize:** You can easily change parameters like sphere sizes, slice thickness, or the number of runs (`K`) in the `if __name__ == "__main__":` section at the bottom of the script.
+
+
+## Acknowledgements
+
+The code for these simulations was mainly generated with assistance from AI models, including **ChatGPT 5** and **GeminiPro 2.5**.
