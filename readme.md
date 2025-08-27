@@ -1,6 +1,4 @@
-Of course. Here is a more concise and simplified version of the README file.
 
------
 
 ## Simulation of Sliced Sphere Lattices
 
